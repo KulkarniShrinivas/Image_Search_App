@@ -1,0 +1,29 @@
+# Image_Search_App
+
+
+A simple web application for searching and displaying images using the Unsplash API.
+
+## Table of Contents
+- [Description](#description)
+- [Screenshots](#screenshots)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Description
+
+The Image Search App allows users to search for images using keywords. It makes use of the Unsplash API to fetch and display search results dynamically. Users can also view more images by clicking the "Show more" button.
+
+## Screenshots
+
+![Screenshot 1](screenshot1.png)
+*Add more screenshots if needed*
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/Image_Search-App.git
