@@ -3,15 +3,7 @@
 
 A simple web application for searching and displaying images using the Unsplash API.
 
-## Table of Contents
-- [Description](#description)
-- [Screenshots](#screenshots)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Description
 
