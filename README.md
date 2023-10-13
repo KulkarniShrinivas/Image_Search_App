@@ -11,7 +11,7 @@ The Image Search App allows users to search for images using keywords. It makes 
 
 ## Screenshots
 
-![Screenshot 1](screenshot1.png)
+([screenshot1.png](https://github.com/KulkarniShrinivas/Image_Search_App)
 *Add more screenshots if needed*
 
 ## Installation
